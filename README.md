@@ -8,7 +8,7 @@ hiMallDatagrid插件主要用于后台繁琐的表格数据初始化，异步翻
 
 
 效果如下：
-![image](https://github.com/xielingxiao/hiMallDatagrid/blob/master/1.png)
+![image](https://github.com/xielingxiao/hiMallDatagrid/blob/master/image/1.png)
 
 
-![image](https://github.com/xielingxiao/hiMallDatagrid/blob/master/2.png)
+![image](https://github.com/xielingxiao/hiMallDatagrid/blob/master/image/2.png)
